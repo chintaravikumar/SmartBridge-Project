@@ -6,7 +6,7 @@ Developed as part of the **SmartBridge** program, this project aims to simplify 
 ---
 ## 🌐 Live Demo
 
-🚀 [Visit Live Demo here..](https://docspot-7jfw.onrender.com/)
+🚀 [Visit Live Demo here..](https://smart-bridge-project-tan.vercel.app/)
 
 ---
 ## 📸 Screenshots
@@ -184,5 +184,8 @@ Make sure to follow the contribution guidelines and write clean, well-documented
 ## 📧 Contact
 
 Have questions or want to collaborate?  
-📬 Email:  [Mail me..](cherukurimeenakshi555@gmail.com)  
-🌐 GitHub: [MeenaCherukuri](https://github.com/MeenaCherukuri)
+📬 Email:  [Mail me..](chintharavikumar9908@gmail.com)  
+🌐 GitHub: [CHINTA RAVI KUMAR](https://github.com/chintaravikumar)
+
+
+
