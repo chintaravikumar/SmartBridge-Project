@@ -6,7 +6,7 @@ Developed as part of the **SmartBridge** program, this project aims to simplify 
 ---
 ## 🌐 Live Demo
 
-🚀 [Visit Live Demo here..](https://smart-bridge-project-tan.vercel.app/)
+🚀 [Visit Live Demo here..](https://docs-spot-project.vercel.app/)
 
 ---
 ## 📸 Screenshots
@@ -186,6 +186,7 @@ Make sure to follow the contribution guidelines and write clean, well-documented
 Have questions or want to collaborate?  
 📬 Email:  [Mail me..](chintharavikumar9908@gmail.com)  
 🌐 GitHub: [CHINTA RAVI KUMAR](https://github.com/chintaravikumar)
+
 
 
 
