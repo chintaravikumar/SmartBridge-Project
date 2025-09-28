@@ -184,8 +184,9 @@ Make sure to follow the contribution guidelines and write clean, well-documented
 ## 📧 Contact
 
 Have questions or want to collaborate?  
-📬 Email:  [Mail me..](chintharavikumar9908@gmail.com)  
+📬 Email:  [chintharavikumar9908@gmail.com](chintharavikumar9908@gmail.com)  
 🌐 GitHub: [CHINTA RAVI KUMAR](https://github.com/chintaravikumar)
+
 
 
 
